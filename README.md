@@ -47,7 +47,7 @@ Your Computer
 
 For the complete beginner-friendly installation guide, see:
 
-[Installation and Usage Guide](Instructions.md)
+[Installation and Usage Guide](INSTRUCTIONS.md)
 
 ## Troubleshooting
 
